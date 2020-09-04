@@ -1,6 +1,6 @@
 # Campus Map
 This is a full-stack project I built when I was taking Software Design and Implementation class. <br/>
-This application is host on DigitalOcean under my domin name: <a href="www.jinghua.website/map" target="_blank">www.jinghua.website/map</a>
+This application is host on DigitalOcean under my domin name: <a href="http://www.jinghua.website/map" target="_blank">www.jinghua.website/map</a>
 
 ## Features:
 - **Shortest Path**: <br>
